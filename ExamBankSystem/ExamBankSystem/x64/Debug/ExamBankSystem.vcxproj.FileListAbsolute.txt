@@ -1,0 +1,9 @@
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\x64\Debug\ExamBankSystem.vcxproj.AssemblyReference.cache
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\x64\Debug\ExamBankSystem.CostAllForm.resources
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\x64\Debug\ExamBankSystem.CostReportForm.resources
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\x64\Debug\ExamBankSystem.MainBankForm.resources
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\x64\Debug\ExamBankSystem.TopCostsForm.resources
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\x64\Debug\ExamBankSystem.TransactionForm.resources
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\x64\Debug\ExamBankSystem.vcxproj.GenerateResource.cache
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\x64\Debug\ExamBankSystem.ReceivingForm.resources
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\x64\Debug\ExamBankSystem.OnlineShopForm.resources

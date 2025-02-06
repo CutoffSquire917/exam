@@ -1,0 +1,60 @@
+﻿  MyForm.cpp
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\CostAllForm.h(294,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\CostAllForm.h(304,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\TransactionForm.h(586,60): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\TransactionForm.h(837,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\TransactionForm.h(846,36): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\MainBankForm.h(612,63): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\MainBankForm.h(916,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\MainBankForm.h(1012,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\MainBankForm.h(1109,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  Source.cpp
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\CostAllForm.h(294,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\CostAllForm.h(304,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\TransactionForm.h(586,60): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\TransactionForm.h(837,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\TransactionForm.h(846,36): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\MainBankForm.h(612,63): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\MainBankForm.h(916,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\MainBankForm.h(1012,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+C:\Users\pushk\source\repos\ExamBankSystem\ExamBankSystem\MainBankForm.h(1109,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+  TopCostsForm.cpp
+  Создание кода...
+  CostAllForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ExamBankSystem.vcxproj -> C:\Users\pushk\source\repos\ExamBankSystem\x64\Debug\ExamBankSystem.exe
