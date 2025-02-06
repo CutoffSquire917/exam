@@ -12,7 +12,6 @@ struct TAM {
 	//	  And
 	int mistakes;
 };
-std::string encypt(std::string input);
 std::string decypt(std::string input);
 void CoutStageGellows(const int stage);
 void WordFromFile(vector<string>* obj, const std::string fileWay);
@@ -77,6 +76,7 @@ int main() {
 		}
 	}
 
+	delete wordlist;
 }
 
 bool TheGame(const string theWord) {
@@ -199,6 +199,7 @@ bool TheGame(const string theWord) {
 	}
 	cout << endl;
 	cout << "Time: " << time << endl;
+	delete stages;
 	return true;
 }
 
